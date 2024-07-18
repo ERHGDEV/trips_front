@@ -1,8 +1,18 @@
-# React + Vite
+![Captura de pantalla en ordenador](https://github.com/ERHGDEV/trips_front/blob/main/src/assets/desktop.webp)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Trips App
 
-Currently, two official plugins are available:
+Este proyecto es una aplicación web para gestionar viajes utilizando el trips_api. La aplicación se adapta a diferentes tamaños de pantalla, mostrando menos columnas en pantallas más pequeñas y utilizando un botón de 'Detalles' que abre un modal para editar y eliminar entradas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características
+
+- Gestión de Viajes: Permite agregar, editar y eliminar registros de viajes.
+- Adaptación a Pantallas: Diseño responsivo que se adapta a diferentes tamaños de pantalla.
+- Modales: Uso de modales para editar y eliminar entradas.
+
+## Pendientes
+
+- Filtros por operador y por fecha
+- Reporte de viajes (PDF)
+- Autenticación y autorización (Login)
+
